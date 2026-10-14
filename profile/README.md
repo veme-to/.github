@@ -57,10 +57,10 @@ Exploração de ideias, automação e integração de tecnologias para desenvolv
 
 A Veme nasceu da parceria entre dois profissionais com competências complementares.
 
-**Danilo · Tecnologia e Desenvolvimento**<br>
+** · Tecnologia e Desenvolvimento**<br>
 Programação, desenvolvimento web, sistemas digitais e soluções tecnológicas.
 
-**Otávio · Marketing e Comunicação**<br>
+** · Marketing e Comunicação**<br>
 Criatividade, publicidade, posicionamento e estratégia de comunicação.
 
 Essa troca une a sensibilidade de comunicar à capacidade de construir. Movimento e direção são responsabilidades compartilhadas: as duas especialidades ajudam a dar forma e sentido a cada ideia.
