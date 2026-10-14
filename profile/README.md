@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veme-to/brand-assets/main/logos/logo-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veme-to/brand-assets/main/logos/logo.png">
-    <img src="https://raw.githubusercontent.com/veme-to/brand-assets/main/logos/logo.png" alt="Veme — símbolo oficial" width="480">
+    <img src="https://raw.githubusercontent.com/veme-to/brand-assets/main/logos/logo-bg.png" alt="Veme — símbolo oficial" width="480">
   </picture>
 </p>
 
